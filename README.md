@@ -4,5 +4,5 @@
 # Want to Play This Game?
 * <a href ="https://replit.com/@BonyManjrawala/QuizAppjs#index.js" rel="nofollow">CLick Here</a> to Play !
 
-# Coading 
+# Coding 
 * <a href="https://replit.com/@BonyManjrawala/QuizAppjs#index.js"  rel="nofollow"> Click Here</a> To See !
